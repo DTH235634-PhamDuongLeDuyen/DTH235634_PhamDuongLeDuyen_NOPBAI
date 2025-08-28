@@ -9,8 +9,12 @@
 - Tôi là sinh viên nghành công nghệ thông tin Trường Đại Học An Giang  
 
 # LIÊN HỆ:
-- [facebook](https://www.facebook.com/share/19ecCjtzrS/)
-- [instagram](https://www.instagram.com/itsme.aug_03?igsh=eDYzbzFwODMxbndo)
-- [github](https://github.com/DTH235634-PhamDuongLeDuyen/DTH235634_PhamDuongLeDuyen_NOPBAI/edit/main/README.md)
-- Zalo: 0398745795
-- Email: duyen_dth235634@student.agu.edu.vn
+-🌏Facebook: [facebook](https://www.facebook.com/share/19ecCjtzrS/)
+
+-🖼️Instagram: [instagram](https://www.instagram.com/itsme.aug_03?igsh=eDYzbzFwODMxbndo)
+
+-🐈Github:  [github](https://github.com/DTH235634-PhamDuongLeDuyen/DTH235634_PhamDuongLeDuyen_NOPBAI/edit/main/README.md)
+
+-💌Zalo: 0398745795
+
+-📧Email: duyen_dth235634@student.agu.edu.vn
