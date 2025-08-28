@@ -13,4 +13,4 @@
 - [instagram](https://www.instagram.com/itsme.aug_03?igsh=eDYzbzFwODMxbndo)
 - [github](https://github.com/DTH235634-PhamDuongLeDuyen/DTH235634_PhamDuongLeDuyen_NOPBAI/edit/main/README.md)
 - Zalo: 0398745795
-- Email:  
+- Email: duyen_dth235634@student.agu.edu.vn
