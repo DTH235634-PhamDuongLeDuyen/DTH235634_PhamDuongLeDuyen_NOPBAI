@@ -1,17 +1,20 @@
 # DTH235634_PhamDuongLeDuyen_NOPBAI
-# Xin chào, mình tên là Phạm Dương Lệ Duyên
+# Xin chào 👋, tôi tên là Phạm Dương Lệ Duyên
+👩‍🎓Tôi là sinh viên nghành công nghệ thông tin Trường Đại Học An Giang
+Đây là nơi mình lưu trữ các bài tập, dự án và sản phẩm mà mình đã làm trong suốt quá trình học tập.
 
-# THÔNG TIN CÁ NHÂN:
-- Họ&Tên :: PHẠM DƯƠNG LỆ DUYÊN
-- Ngày sinh🍰: 29/06/2005
-- Quê quán :: ấp Hòa Phát, xã Phú Hiệp, huyện Phú Tân, tỉnh An Giang
-- Thường trú 🏘️: xã Hòa Lạc, tỉnh An Giang
-- Tôi là sinh viên nghành công nghệ thông tin Trường Đại Học An Giang  
+# Mục đích chính:
+Ghi lại quá trình học và thực hành.
+Lưu trữ các project nhỏ và lớn.
+Chia sẻ kiến thức, kinh nghiệm học lập trình.
+📂 Nội dung
+📝 Bài tập trên lớp
+💻 Các project thực hành
+🚀 Dự án cá nhân nhỏ
+# 💡 Ghi chú: Repo này sẽ được cập nhật thường xuyên khi mình hoàn thành thêm bài tập hoặc dự án mới.
 
 # LIÊN HỆ:
 -🌏Facebook: [facebook](https://www.facebook.com/share/19ecCjtzrS/)
-
--🖼️Instagram: [instagram](https://www.instagram.com/itsme.aug_03?igsh=eDYzbzFwODMxbndo)
 
 -🐈Github:  [github](https://github.com/DTH235634-PhamDuongLeDuyen/DTH235634_PhamDuongLeDuyen_NOPBAI/edit/main/README.md)
 
