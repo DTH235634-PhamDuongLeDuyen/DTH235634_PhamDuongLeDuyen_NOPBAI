@@ -1,0 +1,1 @@
+print( python hỗ trợ các kiểu dữ liệu: số, chuỗi, logic, tập hợp, ánh xạ, nhị phân, none)
